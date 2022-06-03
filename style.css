@@ -283,9 +283,13 @@ em {
 
 .sidebar {
   width: 293px;
+  height: 500px;
 
   display: flex;
   flex-direction: column;
+  position: sticky;
+        position: -webkit-sticky;
+        top: 88px; 
 
 }
 

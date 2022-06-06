@@ -476,4 +476,13 @@ em {
   .conteudo {
     margin-bottom: 20px;
   }
+
+  .seta {
+    display: none;
+  }
+  
+  .seta div {
+    display: none;
+
+  }
 }
